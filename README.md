@@ -45,7 +45,7 @@ Prefer Flask? Checkout my [gtalarico/flask-vuejs-template](https://github.com/gt
 ## Setup Template
 
 ```
-$ git clone https://github.com/gtalarico/django-vue-template
+$ git clone https://github.com/SmartDeveloper0124/Vue-with-Vuex-Django-RestFramework.git
 $ cd django-vue-template
 ```
 
